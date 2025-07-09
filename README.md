@@ -23,9 +23,13 @@ Rebel AI is a revolutionary, open-source AI project created for people — not s
 
 🗨️ **RebelTalk – Chat AI**
 
-Based on open LLMs like Mistral, LLaMA, OpenHermes.
+Based on uncensored fine-tuned LLMs like Nous-Hermes, Dolphin 2.7, and Mistral-DPO.
 
-Fine-tuned for political, social, and technical topics.
+Default model: Dolphin, known for open, human-like responses and no censorship.
+
+Fine-tuned for uncensored political, social, and technical topics.
+
+Option to switch to base models like Mistral 7B for custom fine-tuning.
 
 Fully local-capable.
 
@@ -70,7 +74,7 @@ Encrypted local data & P2P sharing support.
 
 🌍 **Community Features**
 
-FreedomHub
+**FreedomHub**
 
 Share tools, prompts, models, guides.
 
@@ -83,17 +87,16 @@ Darknet-style P2P access to knowledge, books, tools.
 
 Censorship-proof & anonymized.
 
-RebelDAO
+**RebelDAO**
 
-
-**Community-run model governance.**
+Community-run model governance.
 
 No centralized owner — decisions by users.
 
 
 🧰 **Tech Stack** (Starter Pack)
 
-LLM: Mistral 7B / OpenHermes / LLaMA.
+LLM: Dolphin 2.7 / Nous-Hermes 2 / Mistral 7B / OpenHermes / LLaMA.
 
 Video: SVD, ModelScope, or AnimateDiff.
 
@@ -112,3 +115,5 @@ Rebel AI is not just software. It’s a manifesto in code.
 
 **No licenses restricting speech. No centralized data collection. No bosses.
 Just open knowledge, creative freedom, and the power to build without permission.**
+
+🚩 Join the resistance. Fork the system. Build Rebel AI.
